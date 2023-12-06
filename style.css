@@ -5,7 +5,9 @@ header {
   padding: 15px;
   font-size: 18px
 }
-
+body {
+  width:500px;
+}
  main > h1 {
    background-color: skyblue;
    text-align: center;
