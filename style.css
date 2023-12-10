@@ -6,7 +6,9 @@ header {
   font-size: 18px
 }
 body {
-  margin: 10px;
+  background:pink;
+  margin: 30px;
+  padding: 20px;
 }
   
  main > h1 {
